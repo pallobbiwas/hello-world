@@ -1,0 +1,15 @@
+.wrapper1{
+   
+    display: flex;
+    overflow-x: auto;
+    overflow-y: hidden;
+   
+    
+
+}
+p{
+    border: 2px solid crimson;
+    padding: 2px;
+    color:crimson
+
+}
